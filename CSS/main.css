@@ -12,6 +12,10 @@ body {
     height: 100%;
 }
 
+.main-image-phone {
+    display: none;
+}
+
 .dark-theme {
     width: 100%;
     position: relative;
@@ -67,7 +71,7 @@ body {
 
 .star-img {
     width: 80%;
-    heigth: 80%;
+    heigth: 80%a;
 }
 
 .a {
