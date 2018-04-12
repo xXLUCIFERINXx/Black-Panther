@@ -1,5 +1,6 @@
 body {
     background-color: rgb(0, 2, 13);
+    margin: 20px;
 }
 
 .main-view {
@@ -77,6 +78,19 @@ body {
     font-weight: 300;
 }
 
+ul {
+    margin-left: -5%;
+}
+
+.logo {
+    width: 200px;
+}
+
 .footer {
     display: none;
+}
+.black {
+    color: white;
+    margin: 0px;
+    background-color: black;
 }

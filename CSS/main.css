@@ -80,10 +80,20 @@ body {
     font-weight: 300;
 }
 
+.logo {
+    height: 300px;
+}
+
 .footer {
     color: white;
     padding-top: 40px;
     padding-bottom: 10px;
     padding-left: 200px;
     padding-right: 200px;
+}
+
+.black {
+    color: white;
+    margin: 0px;
+    background-color: black;
 }
