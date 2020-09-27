@@ -1,5 +1,6 @@
 body {
     background-color: rgb(0, 2, 13);
+    overflow: hidden;
 }
 
 .main-view {
